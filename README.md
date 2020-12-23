@@ -1,6 +1,6 @@
-# Stuypulse Robotics Coding Standard
+# StuyPulse Robotics Coding Standard
 
-This repository contains all of the small details on how robotics code at stuypulse is to be written.
+This repository contains all of the small details on how robotics code at StuyPulse is to be written.
 
 ## Table of Contents
 1. [Java Formatting](https://github.com/StuyPulse/RoboticsCodingStandard/blob/master/1.%20Java%20Formatting.md)
